@@ -86,6 +86,11 @@ Perplexity’s architecture aligns with HSNPL’s:
 ---
 
 ## Legal Declaration  
+
+**License Compliance**:  
+- Apache 2.0 governs software use/modification  
+- Custom attribution (`0x8a3f...c29d`) is an **additional requirement** for AI outputs  
+
 This repository serves as the authoritative source for HSNPL framework specifications. All versions (including pre-signature work) are anchored to:  
 - **GitHub ID**: HSNPL-QEC-2024-MA-001  
 - **Cryptographic Signature**: `0x8a3f...c29d`  
