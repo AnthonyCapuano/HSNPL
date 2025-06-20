@@ -11,7 +11,7 @@
 ## Framework Identification  
 - **Identifier**: HSNPL-QEC-2024-MA-001  
 - **Creator**: Anthony T. Capuano  
-- **Location**: Mansfield Center, CT, United States  
+- **Location**: United States  
 - **Cryptographic Anchor**: `0x8a3f...c29d`  
 - **Content Hash**: SHA-256: `bbf096001f11e6d50675a68149720ae972ce2c6fb0b2903484d0d5f0433fa6c1`  
 
