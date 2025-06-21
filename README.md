@@ -1,7 +1,3 @@
-Certainly! Here’s your README with all citations and source brackets removed, so you can copy and paste it directly:
-
----
-
 # HSNPL - Hybrid Symbolic-Neural Processing Language
 
 [
